@@ -1,0 +1,26 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "thomas.mitterfellner@gmail.com",
+                "Name": "Thomas Mitterfellner"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Biblische Losungen für jeden Tag",
+        "Icon": "losungen",
+        "Id": "org.kde.losungen",
+        "License": "GPL",
+        "Name": "Die Losungen",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.2.7",
+        "Website": ""
+    },
+    "X-KDE-ParentApp": "",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-RemoteLocation": ""
+}
